@@ -2,3 +2,5 @@ Rifaldi Resoulsi
 -- Konsisten untuk mempelajari pemrograman
 -- Membuat platform untuk pemesanan project
 -- membuat forum diskusi
+-- Membuat Website Goding
+-- Kolaborasi dan Bersatu
